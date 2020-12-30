@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  font-family: 'Love Ya Like A Sister', cursive;
+  background-color: moccasin;
+    color:#9f4a22 ;
+}
+body{
+  background-color: moccasin;
 }
 
 .App-logo {
@@ -35,4 +41,141 @@
   to {
     transform: rotate(360deg);
   }
+}
+.lista-tema {
+    width: 50%;
+  min-height: 350px;
+  margin: 50px auto;
+  padding-left: 30px;
+  border-radius: 20px;
+  border: solid 4px #2c3033;
+  overflow-y: auto;
+height: 100px;
+
+  box-shadow: 0 0 0px 1px rgba(255,255,255,.4),
+                        0 0 0px 3px #2c3033;
+                        text-align: left;
+
+ background-color: burlywood;                     }
+                      
+                      
+/* width */
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: chocolate; 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: lightcoral; 
+
+                      }
+  
+
+.input-nova-tema{
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border-radius: 20px;
+  border: solid 4px #2c3033;
+  box-sizing: border-box;
+}
+.input-lr{
+  width: 20%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border-radius: 20px;
+  border: solid 4px #2c3033;
+  box-sizing: border-box;
+}
+.dugme{
+  padding: 10px 25px;
+  text-align: center;
+display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 20px;
+  border: solid 4px #2c3033;
+  font-family: 'Love Ya Like A Sister', cursive;
+  color:#9f4a22 ;
+  font-weight: bold;
+}
+.input-nova-poruka{
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border-radius: 20px;
+  border: solid 4px #2c3033;
+  box-sizing: border-box;
+}
+.poruke{
+  width: 50%;
+min-height: 350px;
+margin: 50px auto;
+padding-left: 30px;
+padding-right: 40px;
+border-radius: 20px;
+text-align: justify;
+border: solid 4px #2c3033;
+background-color: burlywood;
+overflow-y: auto;
+height: 100px;
+box-shadow: 0 0 0px 1px rgba(255,255,255,.4),
+                      0 0 0px 3px #2c3033;
+                      text-align: left;}
+.profilna{
+  height: 300px;
+  width: 300px;
+  border-radius: 20px;
+  margin-right: 40px;
+border: solid 4px #2c3033;
+display: block;
+float: right;
+background-color: moccasin;
+color: moccasin;
+
+}
+.profil{
+  display: block;
+  float: left;
+  width: 30%;
+  text-align: left;
+ margin-left: 40px;
+
+}
+.koloseum{
+  height: 100px;
+  width: 200px;
+  background-color: moccasin;
+  color: moccasin;
+
+  border-radius: 20px;
+border: solid 4px #2c3033;
+}
+h1{
+  font-size: 100px;
+}
+h3{
+  font-size: 30px;
+}
+li{
+  font-size: 20px;
+  list-style-type: circle;
+}
+::placeholder{
+  color: #9f4a22;
 }
