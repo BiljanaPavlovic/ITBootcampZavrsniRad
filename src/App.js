@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="App">
 
-      <Router basename='ITBootcamp-zavrsni-rad'>
+      <Router basename='/ITBootcamp-zavrsni-rad'>
         <Header user={user} setUser={setUser} />
 
         <Content setUser={setUser} loggedin={user} user={user} />

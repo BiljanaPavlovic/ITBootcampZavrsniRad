@@ -11,7 +11,7 @@ const Header = ({ user, setUser }) => {
         <Link to="">
           <img
             className="koloseum"
-            src="ITBootcamp-zavrsni-rad/logoForum.png"
+            src="/ITBootcamp-zavrsni-rad/logoForum.png"
           />
         </Link>
         ITBootcamp Forum
