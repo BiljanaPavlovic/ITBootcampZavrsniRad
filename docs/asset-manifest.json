@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/BiljanaPavlovic/ITBootcamp-zavrsni-rad/static/css/main.022c95de.chunk.css",
-    "main.js": "/BiljanaPavlovic/ITBootcamp-zavrsni-rad/static/js/main.d4902e24.chunk.js",
-    "main.js.map": "/BiljanaPavlovic/ITBootcamp-zavrsni-rad/static/js/main.d4902e24.chunk.js.map",
-    "runtime-main.js": "/BiljanaPavlovic/ITBootcamp-zavrsni-rad/static/js/runtime-main.ab50e51d.js",
-    "runtime-main.js.map": "/BiljanaPavlovic/ITBootcamp-zavrsni-rad/static/js/runtime-main.ab50e51d.js.map",
-    "static/js/2.5e1d91e2.chunk.js": "/BiljanaPavlovic/ITBootcamp-zavrsni-rad/static/js/2.5e1d91e2.chunk.js",
-    "static/js/2.5e1d91e2.chunk.js.map": "/BiljanaPavlovic/ITBootcamp-zavrsni-rad/static/js/2.5e1d91e2.chunk.js.map",
-    "index.html": "/BiljanaPavlovic/ITBootcamp-zavrsni-rad/index.html",
-    "precache-manifest.9fbb75568dac0e3c7f1c45f4789926a1.js": "/BiljanaPavlovic/ITBootcamp-zavrsni-rad/precache-manifest.9fbb75568dac0e3c7f1c45f4789926a1.js",
-    "service-worker.js": "/BiljanaPavlovic/ITBootcamp-zavrsni-rad/service-worker.js",
-    "static/css/main.022c95de.chunk.css.map": "/BiljanaPavlovic/ITBootcamp-zavrsni-rad/static/css/main.022c95de.chunk.css.map",
-    "static/js/2.5e1d91e2.chunk.js.LICENSE": "/BiljanaPavlovic/ITBootcamp-zavrsni-rad/static/js/2.5e1d91e2.chunk.js.LICENSE",
-    "static/media/logo.svg": "/BiljanaPavlovic/ITBootcamp-zavrsni-rad/static/media/logo.5d5d9eef.svg"
+    "main.css": "/BiljanaPavlovic/ITBootcampZavrsniRad/static/css/main.022c95de.chunk.css",
+    "main.js": "/BiljanaPavlovic/ITBootcampZavrsniRad/static/js/main.cfc181fa.chunk.js",
+    "main.js.map": "/BiljanaPavlovic/ITBootcampZavrsniRad/static/js/main.cfc181fa.chunk.js.map",
+    "runtime-main.js": "/BiljanaPavlovic/ITBootcampZavrsniRad/static/js/runtime-main.f22fdf38.js",
+    "runtime-main.js.map": "/BiljanaPavlovic/ITBootcampZavrsniRad/static/js/runtime-main.f22fdf38.js.map",
+    "static/js/2.8f1569cd.chunk.js": "/BiljanaPavlovic/ITBootcampZavrsniRad/static/js/2.8f1569cd.chunk.js",
+    "static/js/2.8f1569cd.chunk.js.map": "/BiljanaPavlovic/ITBootcampZavrsniRad/static/js/2.8f1569cd.chunk.js.map",
+    "index.html": "/BiljanaPavlovic/ITBootcampZavrsniRad/index.html",
+    "precache-manifest.cc25d82966c1106f2f36c432b5fa6235.js": "/BiljanaPavlovic/ITBootcampZavrsniRad/precache-manifest.cc25d82966c1106f2f36c432b5fa6235.js",
+    "service-worker.js": "/BiljanaPavlovic/ITBootcampZavrsniRad/service-worker.js",
+    "static/css/main.022c95de.chunk.css.map": "/BiljanaPavlovic/ITBootcampZavrsniRad/static/css/main.022c95de.chunk.css.map",
+    "static/js/2.8f1569cd.chunk.js.LICENSE": "/BiljanaPavlovic/ITBootcampZavrsniRad/static/js/2.8f1569cd.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.ab50e51d.js",
-    "static/js/2.5e1d91e2.chunk.js",
+    "static/js/runtime-main.f22fdf38.js",
+    "static/js/2.8f1569cd.chunk.js",
     "static/css/main.022c95de.chunk.css",
-    "static/js/main.d4902e24.chunk.js"
+    "static/js/main.cfc181fa.chunk.js"
   ]
 }

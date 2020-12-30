@@ -1,5 +1,5 @@
 import React from "react";
-import { Link, withRouter, Switch, Route, Router } from "react-router-dom";
+import { Link, withRouter, Switch, Route } from "react-router-dom";
 import Login from "../components/login";
 import Register from "../components/register";
 import ListaTema from "../components/listatema";
@@ -7,15 +7,7 @@ import ListaTema from "../components/listatema";
 const Header = ({ user, setUser }) => {
   return (
     <div>
-      <h1>
-        <Link to="">
-          <img
-            className="koloseum"
-            src="/ITBootcamp-zavrsni-rad/logoForum.png"
-          />
-        </Link>
-        ITBootcamp Forum
-      </h1>
+      <h1>ITBootcamp Forum</h1>
 
       <Link to="/login">
         <input className="dugme" type="submit" value="Uloguj se" />
